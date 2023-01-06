@@ -1,0 +1,19 @@
+id: AC566D658
+title: Prayer to the Lineage of Lumorab
+type: translation
+pechas:
+- I00F5B46A
+- IB95BB94A
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:02:33.938986
+  last_modified_at: 2023-01-04 12:02:33.938992
+  collections:
+  - Jampal Dewe Nyima Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I00F5B46A/22FD: '5981'
+  IB95BB94A/F666: '5981'
